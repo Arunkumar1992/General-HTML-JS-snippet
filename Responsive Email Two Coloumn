@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+@media only screen and (max-device-width: 450px), only screen and (max-width: 450px) and (-webkit-min-device-pixel-ratio: 1.1), only screen and (-webkit-min-device-pixel-ratio: 2.1), only screen and (max-width: 450px) {
+/* -- General -- */
+.mobFull {
+	width: 100% !important;
+	height: auto !important;
+	display: block !important;
+}
+.mainEmailWrap{
+	width: 100% !important;
+
+}
+}
+
+@media only screen and (max-device-width: 660px), only screen and (max-width: 660px) and (-webkit-min-device-pixel-ratio: 1.1), only screen and (-webkit-min-device-pixel-ratio: 2.1), only screen and (max-width: 660px) {
+
+.mainEmailWrap{
+	width: 100% !important;
+
+}
+
+}
+	</style>
+
+</head>
+<body>
+
+  <table class="mainEmailWrap" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse:collapse;" align="center" bgcolor="#ffffff" border="0" width="360" cellpadding="0" cellspacing="0"> <tr>   <td style="margin: 0;padding: 0;border-collapse:collapse;" valign="top"><table style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse;color: #3c3c3c;font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 14px;font-weight: lighter;text-decoration: none;outline: none;text-align:left;" align="left" border="0" width="100%">
+<tbody>
+                              <tr>
+                                <td style="border-collapse:collapse;" valign="top">
+
+<table class="mobFull" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse;  display:inline-block;" align="left" border="0" width="49%" cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                      <tr><td style="margin: 0;padding: 0;border-collapse:collapse;" valign="top"><table style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse;" align="center" border="0" width="100%" cellpadding="0" cellspacing="0"><tbody><tr>
+                                      <td>Left Content</td></tr></tbody></table>
+
+
+
+
+                                      </td></tr></tbody></table>
+
+                                <table class="mobFull" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse;  display:inline-block;" align="right" border="0" width="49%" cellpadding="0" cellspacing="0">
+                                    <tbody>
+                                      <tr><td style="margin: 0;padding: 0;border-collapse:collapse;" valign="top"><table style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse;" align="center" border="0" width="100%" cellpadding="0" cellspacing="0"><tr>
+                                      <td>Right Content</td></tr></table>
+
+
+
+
+                                      </td></tr></tbody></table>
+
+                                      
+                                
+                                </td>
+
+  </tr></tbody>
+ 
+</table>
+
+
+</td></tr></table>
+
+
+
+</body>
+</html>
