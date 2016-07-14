@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Monokai - Spacegray/Monokai - Spacegray Eighties.tmTheme",
+	"draw_indent_guides": false,
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "preap.sublime-theme",
+	"trim_trailing_white_space_on_save": false,
+	"word_wrap": true
+}
